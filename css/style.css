@@ -88,6 +88,34 @@ main{
     line-height: 30px; /* 166.667% */
 }
 
+.party-address{
+    background: rgba(255, 0, 0, 0.05);
+    text-align: center;
+    padding: 40px;
+    margin-top: 50px;
+    border-radius: 10px;
+    font-family: Merriweather;
+}
+
+.party-address p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.party-address span{
+    color: #FF0000;
+    font-weight: bold;
+    font-size: 20px;
+}
+.join-btn{
+    background-color: #FF0000;
+    padding: 8px 10px;
+    border: none;
+    border-radius: 5px;
+    color: #FFF;
+}
+
+
 /* Best offer section Styles */
 
 .best-offer-section{
